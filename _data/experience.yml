@@ -1,0 +1,9 @@
+- role: Data Analyst Intern
+  company: Apple Inc.
+  location: Beijing, China
+  dates: Jun 2025 - Aug 2025
+  description: >
+    Independently developed a statistical and machine learning-based method to detect anomalies in educational sales invoices across 3,300+ stores.
+    Built a traffic anomaly detection pipeline and supported integration of results into an internal BI dashboard.
+    Assisted in operational assessment and performance analysis for the reseller team.
+  tags: Data Analysis, Machine Learning, Anomaly Detection, BI Dashboard
