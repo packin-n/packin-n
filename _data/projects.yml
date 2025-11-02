@@ -1,0 +1,31 @@
+- title: Transformer-Based Models in Materials Science
+  role: Undergraduate Researcher
+  description: >
+    Assisted in developing ElementBERT embeddings by fine-tuning DeBERTa-v3-xsmall on 44,000+ literatures on shape memory alloys (SMA). 
+    Processed tokenized data and configured a masked language modeling (MLM) pipeline for materials property prediction. 
+    Applied embeddings to regression tasks (Random Forest, SVR, MLP, XGBoost) and used genetic algorithms for feature selection. 
+    Implemented a feature-gradient Bayesian optimization pipeline to explore structure-property relationships.
+  tags: Materials Informatics, Machine Learning, Transformers, DeBERTa, Bayesian Optimization
+  link: # Optional: Add a link to the project, e.g., GitHub
+  image: "assets/img/project-transformer.jpg" # Optional: Add a relevant image to 'assets/img/'
+
+- title: Modeling and Experimental Characterization of Electrochemical Ionic Synapses
+  role: Visiting Student
+  description: >
+    Focused on material design and ionic transport processes in Electrochemical Ionic Synapses, investigating asymmetric switching times. 
+    Implemented PEDOT:PSS as the channel layer material for neuromorphic computing applications. 
+    Employed EIS, Cyclic Voltammetry (CV), and UV-Vis spatio-temporal-resolved spectroscopy for device analysis.
+  tags: Neuromorphic Computing, Electrochemistry, PEDOT:PSS, Ionic Synapses, EIS, CV
+  link: # Optional
+  image: "assets/img/project-synapse.jpg" # Optional
+
+- title: Collective Behavior and Quasicrystal of Vibration-Driven Active Particles
+  role: Team Member
+  description: >
+    Designed 3D-printed active particle systems to study quasicrystal formation under vibration. 
+    Analyzed kinetic mechanisms using high-speed camera recordings and Trackpy for trajectory processing. 
+    Quantified diffusion and relaxation dynamics using statistical physics tools (MSD, intermediate scattering functions). 
+    Identified a two-step nucleation mechanism involving dynamic phase separation and symmetry selection.
+  tags: Active Matter, Statistical Physics, Quasicrystals, Trackpy, Non-Equilibrium Dynamics
+  link: # Optional
+  image: "assets/img/project-quasicrystal.jpg" # Optional
