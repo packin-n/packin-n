@@ -9,7 +9,7 @@ description: > # Write a short description about yourself, or leave blank.
   Machine Learning, and Data Science. Passionate about the intersection of computational modeling, 
   AI, and experimental materials science.
 baseURL: "" # If you are hosting your site at https://USERNAME.github.io/, set this to ""
-url: "" # If you are hosting your site at https://USERNAME.github.io/, set this to "https://USERNAME.github.io"
+url: "https://packin-n.github.io" # If you are hosting your site at https://USERNAME.github.io/, set this to "https://USERNAME.github.io"
 # repository: "USERNAME/USERNAME.github.io" # If you are hosting your site at https://USERNAME.github.io/, set this to "USERNAME/USERNAME.github.io"
 
 # -----------------------------------------------------------------------------
