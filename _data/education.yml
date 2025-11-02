@@ -1,0 +1,26 @@
+- degree: B.Eng. in Materials Science and Engineering (Academic Elite Program)
+  university: Xi'an Jiaotong University
+  location: Xi'an, China
+  dates: 2022 - Current
+  notes: |
+    * GPA: 90.4/100 (Rank: 2/160)
+    * Minor in Financial Technology
+    * Academic Elite First-Class Scholarship (Ranked 1st/35)
+    * Excellence Student Award (Top 10%) (2022-2024)
+
+- degree: Berkeley International Study Program
+  university: University of California, Berkeley
+  location: Berkeley, USA
+  dates: Spring 2025
+  notes: |
+    * Key Coursework: Properties of Electronic Materials (A), The Structure and Interpretation of Computer Programs (A)
+
+- degree: 2025 SPECIES Evolutionary Computation Summer School
+  university: Advised by Prof. J. Ignacio Hidalgo
+  location: Moraira, Spain
+  dates: Aug 2025 - Sep 2025
+  notes: |
+    * Youngest Participant
+    * Explored integration of LLM domain knowledge with genetic programming.
+    * Led LLM component (prompt engineering, dynamic mutation guidance).
+    * Manuscript in preparation.
